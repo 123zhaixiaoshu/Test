@@ -8,4 +8,8 @@ public class GitDemo {
         int num3 = 4;
         System.out.println(num1+num3);
     }
+
+    private void say(){
+        System.out.println("hello world!!!");
+    }
 }
